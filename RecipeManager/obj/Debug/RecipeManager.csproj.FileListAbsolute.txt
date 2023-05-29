@@ -1,0 +1,7 @@
+D:\OOP\RecipeManager\obj\Debug\RecipeManager.csproj.AssemblyReference.cache
+D:\OOP\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+D:\OOP\RecipeManager\bin\Debug\RecipeManager.exe.config
+D:\OOP\RecipeManager\bin\Debug\RecipeManager.exe
+D:\OOP\RecipeManager\bin\Debug\RecipeManager.pdb
+D:\OOP\RecipeManager\obj\Debug\RecipeManager.exe
+D:\OOP\RecipeManager\obj\Debug\RecipeManager.pdb
