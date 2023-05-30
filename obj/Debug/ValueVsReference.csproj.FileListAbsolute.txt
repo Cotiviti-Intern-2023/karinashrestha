@@ -1,0 +1,7 @@
+D:\OOP\ValueVsReference\obj\Debug\ValueVsReference.csproj.AssemblyReference.cache
+D:\OOP\ValueVsReference\obj\Debug\ValueVsReference.csproj.CoreCompileInputs.cache
+D:\OOP\ValueVsReference\bin\Debug\ValueVsReference.exe.config
+D:\OOP\ValueVsReference\bin\Debug\ValueVsReference.exe
+D:\OOP\ValueVsReference\bin\Debug\ValueVsReference.pdb
+D:\OOP\ValueVsReference\obj\Debug\ValueVsReference.exe
+D:\OOP\ValueVsReference\obj\Debug\ValueVsReference.pdb
